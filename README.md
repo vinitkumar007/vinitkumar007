@@ -45,6 +45,7 @@ Building practical applications to improve my skills in frontend development, ba
 🤝 Connect With Me
 
 - GitHub: "@vinitkumar007" (https://github.com/vinitkumar007)
+- Gmail: "vinitsuvata2007@gmail.com"
 
 ---
 
